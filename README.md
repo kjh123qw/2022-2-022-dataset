@@ -1,8 +1,8 @@
 # 목차
 
-1. 소개
-2. 데이터
-3. AI 모델 정보
+1. 소개(https://github.com/kjh123qw/2022-2-022-dataset#1-소개)
+2. 데이터(https://github.com/kjh123qw/2022-2-022-dataset#2-데이터)
+3. AI 모델 정보(https://github.com/kjh123qw/2022-2-022-dataset#3-AI-모델-정보)
 
 ---
 
