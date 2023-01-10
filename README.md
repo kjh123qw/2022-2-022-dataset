@@ -776,4 +776,4 @@
 
 3.3 AI 모델 라이센스
 
-- `modified MIT` 자세한 내용은 LICENSE 파일 확인
+- `modified MIT` 자세한 내용은 `LICENSE` 파일 확인
