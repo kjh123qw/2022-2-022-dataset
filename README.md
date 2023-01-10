@@ -4,6 +4,8 @@
 - 2. 데이터
 - 3. AI 모델 정보
 
+---
+
 # 1. 소개
 
 1.1 과제 명
@@ -70,50 +72,50 @@
     <td colspan="2"> 띄어쓰기문장부호오류</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;-</td>
     <td>띄어쓰기문장부호오류.json</td>
   </tr>
   <tr>
     <td colspan="2">맞춤법오류</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;-</td>
     <td>맞춤법오류_SNS.json</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;-</td>
     <td>맞춤법오류_자유게시판.json</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;-</td>
     <td>맞춤법오류_질문게시판.json</td>
   </tr>
   <tr>
     <td colspan="2">오탈자</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;-</td>
     <td>오탈자오류.json</td>
   </tr>
   <tr>
     <td colspan="2">음성인식기오류</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;-</td>
     <td>음성인식기오류.json</td>
   </tr>
   <tr>
     <td colspan="2">자동생성오류</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;-</td>
     <td>자동생성오류.json</td>
   </tr>
   <tr>
     <td colspan="2">자주틀리는맞춤법오류</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;-</td>
     <td>자주틀리는맞춤법오류.json</td>
   </tr>
 </tbody>
