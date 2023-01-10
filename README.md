@@ -1,7 +1,7 @@
 # 목차
 
 1. [소개](https://github.com/kjh123qw/2022-2-022-dataset#1-소개)
-2. [데이터](https://github.com/kjh123qw/2022-2-022-dataset#2-데이터)
+2. [데이터 정보](https://github.com/kjh123qw/2022-2-022-dataset#2-데이터-정보)
 3. [AI 모델 정보](https://github.com/kjh123qw/2022-2-022-dataset#3-AI-모델-정보)
 
 ---
@@ -31,7 +31,7 @@
 
 ---
 
-# 2. 데이터
+# 2. 데이터 정보
 
 2.1 데이터 버전
 
