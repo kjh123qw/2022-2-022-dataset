@@ -1,7 +1,7 @@
 # training environment
-CUDA_VISIBLE_DEVICES: "6,7" # CPU : "-1"
-output_dir: "./result/230109_corraction"
-logging_dir: "./result/230109_corraction"
+CUDA_VISIBLE_DEVICES: "0" # CPU : "-1"
+output_dir: "./result/test_correction"
+logging_dir: "./result/test_correction"
 test_size: 0.05
 dataloader_num_workers: 8
 ddp_find_unused_parameters: False
@@ -44,13 +44,13 @@ pretrained_model_name: "gogamza/kobart-base-v2"
 
 # data
 train_data_path_list:
-    - "../dataset/022.인터페이스별 고빈도 오류 교정 데이터/1.Training/라벨링데이터/맞춤법오류/맞춤법오류_자유게시판.json"
-    - "../dataset/022.인터페이스별 고빈도 오류 교정 데이터/1.Training/라벨링데이터/맞춤법오류/맞춤법오류_질문게시판.json"
-    - "../dataset/022.인터페이스별 고빈도 오류 교정 데이터/1.Training/라벨링데이터/맞춤법오류/맞춤법오류_SNS.json"
+    - "../../datasets/022.인터페이스별 고빈도 오류 교정 데이터/1.Training/라벨링데이터/맞춤법오류/맞춤법오류_자유게시판.json"
+    - "../../datasets/022.인터페이스별 고빈도 오류 교정 데이터/1.Training/라벨링데이터/맞춤법오류/맞춤법오류_질문게시판.json"
+    - "../../datasets/022.인터페이스별 고빈도 오류 교정 데이터/1.Training/라벨링데이터/맞춤법오류/맞춤법오류_SNS.json"
 validation_data_path_list:
-    - "../dataset/022.인터페이스별 고빈도 오류 교정 데이터/2.Validation/라벨링데이터/맞춤법오류/맞춤법오류_자유게시판.json"
-    - "../dataset/022.인터페이스별 고빈도 오류 교정 데이터/2.Validation/라벨링데이터/맞춤법오류/맞춤법오류_질문게시판.json"
-    - "../dataset/022.인터페이스별 고빈도 오류 교정 데이터/2.Validation/라벨링데이터/맞춤법오류/맞춤법오류_SNS.json"
+    - "../../datasets/022.인터페이스별 고빈도 오류 교정 데이터/2.Validation/라벨링데이터/맞춤법오류/맞춤법오류_자유게시판.json"
+    - "../../datasets/022.인터페이스별 고빈도 오류 교정 데이터/2.Validation/라벨링데이터/맞춤법오류/맞춤법오류_질문게시판.json"
+    - "../../datasets/022.인터페이스별 고빈도 오류 교정 데이터/2.Validation/라벨링데이터/맞춤법오류/맞춤법오류_SNS.json"
 src_col: "err_sentence"
 tgt_col: "cor_sentence"
 prefix: "correction:"

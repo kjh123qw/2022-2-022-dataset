@@ -169,11 +169,11 @@ def train(config):
 if __name__ == '__main__':
     '''
     Usage:
-        python train.py --config_file config/base-config.yaml
+        python train.py --config-file config/base-config.yaml
     '''
     # parse inputs args
     parser = argparse.ArgumentParser()
-    parser.add_argument('--config_file')
+    parser.add_argument('--config-file')
     args = parser.parse_args(sys.argv[1:])
     
     # load config file
